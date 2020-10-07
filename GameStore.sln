@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStore", "GameStore\GameStore.csproj", "{6C2ED1F3-1C5B-4EA5-8F9B-7EA5BEBCED1D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameStoreMobile.Core", "GameStoreMobile.Core\GameStoreMobile.Core.csproj", "{6ED68EBA-B93B-4397-B2B5-05336B74C5BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameStoreAPI", "GameStoreAPI\GameStoreAPI.csproj", "{418183AD-16B6-4702-9933-7B96400C247D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BethanysPieShopMobile", "..\..\..\Downloads\xamarin-android-getting-started (1)\09\demos\m9\BethanysPieShopMobile\BethanysPieShopMobile.csproj", "{6694D882-8673-40FD-A129-C01ABD7AEF18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BethanysPieShopMobile.Core", "..\..\..\Downloads\xamarin-android-getting-started (1)\09\demos\m9\BethanysPieShopMobile.Core\BethanysPieShopMobile.Core.csproj", "{9129A088-BD6B-4222-B712-8CF2DF645BB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C2ED1F3-1C5B-4EA5-8F9B-7EA5BEBCED1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C2ED1F3-1C5B-4EA5-8F9B-7EA5BEBCED1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C2ED1F3-1C5B-4EA5-8F9B-7EA5BEBCED1D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6C2ED1F3-1C5B-4EA5-8F9B-7EA5BEBCED1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C2ED1F3-1C5B-4EA5-8F9B-7EA5BEBCED1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C2ED1F3-1C5B-4EA5-8F9B-7EA5BEBCED1D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{6ED68EBA-B93B-4397-B2B5-05336B74C5BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6ED68EBA-B93B-4397-B2B5-05336B74C5BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6ED68EBA-B93B-4397-B2B5-05336B74C5BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6ED68EBA-B93B-4397-B2B5-05336B74C5BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{418183AD-16B6-4702-9933-7B96400C247D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{418183AD-16B6-4702-9933-7B96400C247D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{418183AD-16B6-4702-9933-7B96400C247D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{418183AD-16B6-4702-9933-7B96400C247D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6694D882-8673-40FD-A129-C01ABD7AEF18}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6694D882-8673-40FD-A129-C01ABD7AEF18}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6694D882-8673-40FD-A129-C01ABD7AEF18}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{6694D882-8673-40FD-A129-C01ABD7AEF18}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6694D882-8673-40FD-A129-C01ABD7AEF18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6694D882-8673-40FD-A129-C01ABD7AEF18}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{9129A088-BD6B-4222-B712-8CF2DF645BB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9129A088-BD6B-4222-B712-8CF2DF645BB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9129A088-BD6B-4222-B712-8CF2DF645BB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9129A088-BD6B-4222-B712-8CF2DF645BB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1723DADA-D7A6-43FF-8509-1345F6D33588}
+	EndGlobalSection
+EndGlobal

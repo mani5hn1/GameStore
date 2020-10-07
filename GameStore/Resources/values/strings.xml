@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">GameStore</string>
+    <string name="action_settings">Settings</string>
+
+  <string-array name="dropdown_categories">
+    <item>Choose a Category</item>
+    <item>Action</item>
+    <item>Adventure</item>
+    <item>Sport</item>
+    <item>Shooter</item>
+  </string-array>
+
+</resources>

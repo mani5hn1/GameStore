@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GameStoreModelStoreContainer" CdmEntityContainer="GameStoreEntities">
+    <EntitySetMapping Name="Games">
+      <EntityTypeMapping TypeName="GameStoreModel.Game">
+        <MappingFragment StoreEntitySet="Game">
+          <ScalarProperty Name="GameID" ColumnName="GameID" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Genre" ColumnName="Genre" />
+          <ScalarProperty Name="Price" ColumnName="Price" />
+          <ScalarProperty Name="InStock" ColumnName="InStock" />
+          <ScalarProperty Name="Gameoftheweek" ColumnName="Gameoftheweek" />
+          <ScalarProperty Name="ImageURL" ColumnName="ImageURL" />
+          <ScalarProperty Name="Imagethumbnail" ColumnName="Imagethumbnail" />
+          <ScalarProperty Name="Shortdescription" ColumnName="Shortdescription" />
+          <ScalarProperty Name="Longdescription" ColumnName="Longdescription" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="GameCreators">
+      <EntityTypeMapping TypeName="GameStoreModel.GameCreator">
+        <MappingFragment StoreEntitySet="GameCreators">
+          <ScalarProperty Name="CreatorID" ColumnName="CreatorID" />
+          <ScalarProperty Name="GameID" ColumnName="GameID" />
+          <ScalarProperty Name="CreatorName" ColumnName="CreatorName" />
+          <ScalarProperty Name="GameReleased" ColumnName="GameReleased" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

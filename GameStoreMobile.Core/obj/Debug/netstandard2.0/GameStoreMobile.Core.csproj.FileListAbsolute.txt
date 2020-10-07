@@ -1,0 +1,9 @@
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\bin\Debug\netstandard2.0\GameStoreMobile.Core.deps.json
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\bin\Debug\netstandard2.0\GameStoreMobile.Core.dll
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\bin\Debug\netstandard2.0\GameStoreMobile.Core.pdb
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\obj\Debug\netstandard2.0\GameStoreMobile.Core.csprojAssemblyReference.cache
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\obj\Debug\netstandard2.0\GameStoreMobile.Core.AssemblyInfoInputs.cache
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\obj\Debug\netstandard2.0\GameStoreMobile.Core.AssemblyInfo.cs
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\obj\Debug\netstandard2.0\GameStoreMobile.Core.dll
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\obj\Debug\netstandard2.0\GameStoreMobile.Core.pdb
+C:\Users\manish.ravji\source\repos\GameStore\GameStoreMobile.Core\obj\Debug\netstandard2.0\GameStoreMobile.Core.csproj.CoreCompileInputs.cache

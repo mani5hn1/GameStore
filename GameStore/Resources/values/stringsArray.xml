@@ -1,0 +1,10 @@
+﻿<resources>
+<string-array name="dropdown_categories123">
+  <item>Choose a Category</item>
+  <item>Action</item>
+  <item>Adventure</item>
+  <item>Sport</item>
+  <item>Shooter</item>
+</string-array>
+
+</resources>

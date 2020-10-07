@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+ >
+    <TextView
+        android:text="Questions about our products? Give us a call or send us a mail"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/callTextView"
+        style="@style/GameGreenText"
+        android:layout_margin="10dp"
+        android:gravity="center_horizontal" />
+    <Button
+        android:text="Call us on +07450209632"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/phoneButton"
+        android:backgroundTint="#23cfa7"
+        android:textColor="#ffffffff"
+        android:layout_gravity="center_horizontal"
+        android:width="200dp" />
+  <LinearLayout
+  android:layout_width="match_parent"
+  android:layout_height="wrap_content"
+  android:gravity="center"
+  android:layout_margin="10dp"
+  android:orientation="vertical">
+    <TextView
+        android:text="Your comment: "
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@android:color/black"
+        android:paddingTop="20dp"
+        android:textSize="16dp"
+            />
+    <EditText
+        android:inputType="textMultiLine"
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:id="@+id/feedbackText"
+        android:background="@android:color/white"
+        android:textColor="@android:color/black"
+            />
+  </LinearLayout>
+  <Button
+      android:text="Send us an email"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:id="@+id/emailButton"
+      android:backgroundTint="#23cfa7"
+      android:textColor="#ffffffff"
+      android:layout_gravity="center_horizontal"
+      android:width="200dp" />
+</LinearLayout>
